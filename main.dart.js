@@ -34533,7 +34533,7 @@ z8(a){return this.IU(null,null,a)},
 a1T(a,b){return this.IU(a,b,null)}}
 A.Er.prototype={
 K(a){var s=null,r=A.a([new A.tb(new A.Y5(),s,s,t.gO)],t.Ds)
-return A.apl(new A.v2(B.z2,"Halo Center",A.ahC(s,B.n,B.fY,s),!1,s),r)}}
+return A.apl(new A.v2(B.z2,"HaloCenter - Aplikasi Call Center Gratis\xa024\xa0Jam",A.ahC(s,B.n,B.fY,s),!1,s),r)}}
 A.Y5.prototype={
 $1(a){var s=A.aoJ()
 s.H(0,new A.mz())

@@ -34609,7 +34609,7 @@ p=A.ar5(q.c,B.ze,new A.VQ())
 o=t.J
 p=A.afF(A.a([s,r,new A.uf(p,B.kS,q.b)],o),B.lt,B.fX)
 A.o5(20,m)
-A.anB(m,new A.eb(new A.as(l,l,l,l),p,n),A.a([new A.eb(new A.as(0,0,0,l),A.jE(A.acN(A.H3("SUBMIT",n,n,n,B.v8,n,n),new A.VR(q,m)),50,200),n)],o))},
+A.anB(m,new A.eb(new A.as(l,l,l,l),p,n),A.a([new A.eb(new A.as(0,0,0,l),A.jE(A.acN(A.H3("Download Now",n,n,n,B.v8,n,n),new A.VR(q,m)),50,200),n)],o))},
 $S:0}
 A.VQ.prototype={
 $1(a){var s,r
